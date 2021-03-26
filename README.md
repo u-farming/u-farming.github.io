@@ -22,3 +22,7 @@ Please help improve it by filing Pull Requests. Thank you ... and github, for ma
 ## u-farming.org community chat
 
 - [u-farming.org discord server](https://discord.gg/9yRAkJbtKD)
+
+## contribution guidelines
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nsn8ZGb80-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
